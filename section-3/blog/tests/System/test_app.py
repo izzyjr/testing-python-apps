@@ -1,6 +1,5 @@
 from unittest import TestCase
 from unittest.mock import patch
-
 from blog import app
 from blog.blog import Blog
 
